@@ -1,13 +1,12 @@
 # Sistema-de-formulario-bubble
-# Sistema de Formulários - Bubble
 
 Aplicação web desenvolvida utilizando a plataforma **Bubble (No-Code/Low-Code)** como parte de um desafio prático.
 
-## 📌 Sobre o projeto
+ Sobre o projeto
 
 O projeto consiste em um sistema web para criação, gerenciamento e preenchimento de formulários, permitindo cadastrar formulários, criar e organizar questões e registrar respostas dos usuários.
 
-## ⚙️ Funcionalidades
+ Funcionalidades
 
 - Criação e listagem de formulários
 - Edição e exclusão de formulários
@@ -18,17 +17,17 @@ O projeto consiste em um sistema web para criação, gerenciamento e preenchimen
 - Registro de respostas
 - Redefinição de senha
 
-## 🛠️ Tecnologias e ferramentas
+ Tecnologias e ferramentas
 
 - Bubble
 - Desenvolvimento No-Code / Low-Code
 - Desenvolvimento de aplicação web
 
-## 🖼️ Demonstração
+ Demonstração
 
 Este repositório contém imagens demonstrando as principais telas e funcionalidades da aplicação.
 
-## 📚 Contexto
+ Contexto
 
 Projeto desenvolvido a partir de um case técnico que propunha a criação de uma aplicação web para gerenciamento de formulários, questões e respostas.
 
